@@ -1,18 +1,7 @@
-## Getting Started
+## What does this do?
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+As the title suggests, this application sorts a user given string. This is done via splitting the string into the individual characters and converting them into integers with the ASCII table.
 
-## Folder Structure
+## The Reason
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+There is none. Please inform me if you have found any use with this.
